@@ -5,3 +5,4 @@ function adding() {
 }
 
 console.log(adding());
+console.log("John caused merge conflict");
